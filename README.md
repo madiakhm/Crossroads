@@ -25,8 +25,8 @@ To compile and run the program, follow these steps:
 4. Compile the program using the following command: g++ -o car_intersection car_intersection.cpp -std=c++11 -pthread
 
 Note: The `-std=c++11` flag is used to enable C++11 features, and the `-pthread` flag is used to link the pthread library for multithreading support.
-5. Run the compiled executable:
-./car_intersection
+
+5. Run the compiled executable:./car_intersection
 
 
 **Example Output**  
